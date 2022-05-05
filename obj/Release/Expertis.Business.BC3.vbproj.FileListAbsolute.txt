@@ -1,0 +1,3 @@
+C:\Builds\2\Producto\Expertis50R2_Release\bin\Release\Expertis.Business.BC3.dll
+C:\Builds\2\Producto\Expertis50R2_Release\src\Main\Source\Business\Expertis.Business.BC3\obj\Release\ResolveAssemblyReference.cache
+C:\Builds\2\Producto\Expertis50R2_Release\src\Main\Source\Business\Expertis.Business.BC3\obj\Release\Expertis.Business.BC3.dll
